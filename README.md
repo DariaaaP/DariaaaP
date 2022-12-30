@@ -6,6 +6,7 @@
 [![codewars](https://www.codewars.com/users/DariaaaP/badges/small)](https://www.codewars.com/users/DariaaaP) 
 
 
+
 <h1 align="left">🔧 Technologies & Tools</h1>
 <div><img src="https://img.shields.io/badge/OS-macOS-lightgrey?style=flat&logo=macOS&logoColor=rgb(241, 224, 90)&labelColor=rgb(0, 0, 0)" height="21"/> <img src="https://img.shields.io/badge/Editor-VS Code-lightgrey?style=flat&logo=Visual Studio Code&logoColor=rgb(241, 224, 90)&labelColor=rgb(0, 0, 0)" height="21"/></div> 
 <div><img src="https://img.shields.io/badge/Code-HTML5-lightgrey?style=flat&logo=HTML5&logoColor=rgb(198, 83, 141)&labelColor=rgb(0, 0, 0)" height="21"/> <img src="https://img.shields.io/badge/Code-CSS3-lightgrey?style=flat&logo=CSS3&logoColor=rgb(198, 83, 141)&labelColor=rgb(0, 0, 0)" height="21"/> <img src="https://img.shields.io/badge/Code-Sass-lightgrey?style=flat&logo=Sass&logoColor=rgb(198, 83, 141)&labelColor=rgb(0, 0, 0)" height="21"/> <img src="https://img.shields.io/badge/Code-JavaScript-lightgrey?style=flat&logo=JavaScript&logoColor=rgb(198, 83, 141)&labelColor=rgb(0, 0, 0)" height="21"/> <img src="https://img.shields.io/badge/Code-React-lightgrey?style=flat&logo=React&logoColor=rgb(198, 83, 141)&labelColor=rgb(0, 0, 0)" height="21"/> <img src="https://img.shields.io/badge/Code-Python-lightgrey?style=flat&logo=Python&logoColor=rgb(198, 83, 141)&labelColor=rgb(0, 0, 0)" height="21"/></div>
@@ -13,9 +14,13 @@
 <div><img src="https://img.shields.io/badge/Design-Figma-lightgrey?style=flat&logo=Figma&logoColor=rgb(228, 77, 50)&labelColor=rgb(0, 0, 0)" height="21"/></div>
 
 
+
+
 <h1 align="left">📊 Github Stats and Activity</h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DariaaaP&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DariaaaP&theme=midnight-purple&sideLabels=C6538D&currStreakLabel=C6538D&ring=E44D32&fire=F1E05A)](https://git.io/streak-stats)
+
+
 
 
 <h1 align="left">🗂️ Highlight Projects</h1>
