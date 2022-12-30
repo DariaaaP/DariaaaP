@@ -8,7 +8,7 @@
 
 
 <h1 align="center">🔧 Technologies & Tools</h1>
-<img src="https://img.shields.io/badge/code-JavaScript-lightgrey?style=flat&logo=JavaScript" height="21"/> <img src="https://img.shields.io/badge/code-React-lightgrey?style=flat&logo=React" height="21"/>
+<img src="https://img.shields.io/badge/code-JavaScript-lightgrey?style=flat&logo=JavaScript" height="21"/><img src="https://img.shields.io/badge/code-React-lightgrey?style=flat&logo=React" height="21"/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DariaaaP&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
