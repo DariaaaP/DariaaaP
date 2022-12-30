@@ -18,7 +18,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DariaaaP&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DariaaaP&theme=midnight-purple&hide_border=true&sideLabels=DD1264&currStreakLabel=DD1264&ring=DDDDDD&fire=DD1264)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DariaaaP&theme=midnight-purple&hide_border=true&sideLabels=DD1264&currStreakLabel=DD1264&ring=DDDDDD&fire=F1E633)](https://git.io/streak-stats)
 
 
 <h1 align="left">🗂️ Highlight Projects</h1>
