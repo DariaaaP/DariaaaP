@@ -16,7 +16,7 @@
 
 <h1 align="left">📊 Github Stats and Activity</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DariaaaP&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DariaaaP&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DariaaaP&theme=dark&hide_border=true&sideLabels=DD1264&currStreakLabel=DD1264&ring=DDDDDD&fire=DD1264)](https://git.io/streak-stats)
 
