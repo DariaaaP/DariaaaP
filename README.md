@@ -21,4 +21,4 @@
 
 <h1 align="left">🗂️ Highlight Projects</h1>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DariaaaP&repo=EnglishDictionaryApp&theme=midnight-purple)](https://github.com/DariaaaP/EnglishDictionaryApp) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DariaaaP&repo=MoodboardProject&theme=midnight-purple)](https://github.com/DariaaaP/MoodboardProject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DariaaaP&repo=EnglishDictionaryApp&theme=midnight-purple)](https://github.com/DariaaaP/EnglishDictionaryApp) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DariaaaP&repo=MoodboardProject&theme=midnight-purple)](https://github.com/DariaaaP/MoodboardProject) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DariaaaP&repo=Website-of-architects&theme=midnight-purple)](https://github.com/DariaaaP/Website-of-architects)
