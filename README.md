@@ -4,6 +4,8 @@
 
 · 🌱 I’m currently learning JavaScript, React
 
+[![codewars](https://www.codewars.com/users/DariaaaP/badges/micro)](https://www.codewars.com/users/DariaaaP) 
+
 
 <h1 align="center">🔧 Technologies & Tools</h1>
 <img src="https://img.shields.io/badge/language-JavaScript-lightgrey" height="21"/>
