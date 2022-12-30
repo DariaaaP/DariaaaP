@@ -2,7 +2,7 @@
 
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=800&color=974CF4&center=true&vCenter=true&width=555&height=55&lines=HI!+My+name+is+Daria!;I'm+a+junior+frontend+developer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;I'm+currently+learning+JavaScript+%26+React!;Welcome+to+my+page!+%F0%9F%A4%8D+" alt="Typing SVG" /></a></div>
 
-<div align="center">:herb: looking for a job/internship in IT </div>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=1&color=F7F7F7&repeat=false&width=555&height=55&lines=%F0%9F%8C%BF+looking+for+a+job%2Finternship+in+IT" alt="Typing SVG" /></a></div>
 
 [![codewars](https://www.codewars.com/users/DariaaaP/badges/small)](https://www.codewars.com/users/DariaaaP) 
 
