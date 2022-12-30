@@ -8,7 +8,7 @@
 
 
 <h1 align="center">🔧 Technologies & Tools</h1>
-<img src="https://img.shields.io/badge/code-JavaScript-lightgrey?style=plastic&logo=JavaScript" height="21"/>
+<img src="https://img.shields.io/badge/code-JavaScript-lightgrey?style=flat&logo=JavaScript" height="21"/>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
