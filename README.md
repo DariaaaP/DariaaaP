@@ -6,7 +6,7 @@
 [![codewars](https://www.codewars.com/users/DariaaaP/badges/small)](https://www.codewars.com/users/DariaaaP) 
 
 
-<h1 align="left">Contacts</h1>
+<h1 align="left">📫 Contacts</h1>
 
 <div><a href="https://t.me/PDariaaa"><img src="https://img.shields.io/badge/Telegram-@PDariaaa-lightgrey?style=flat&logo=Telegram&logoColor=rgb(241, 224, 90)&labelColor=rgb(0, 0, 0)" height="21"/></a></div> 
 <div><img src="https://img.shields.io/badge/GMail-petrenko.dariaaa@gmail.com-lightgrey?style=flat&logo=GMail&logoColor=rgb(228, 77, 50)&labelColor=rgb(0, 0, 0)" height="21"/></a></div> 
@@ -22,13 +22,13 @@
 
 
 
-<h1 align="left">Github Stats and Activity</h1>
+<h1 align="left">🌱 Github Stats and Activity</h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DariaaaP&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DariaaaP&theme=midnight-purple&sideLabels=C6538D&currStreakLabel=C6538D&ring=E44D32&fire=F1E05A)](https://git.io/streak-stats)
 
 
 
 
-<h1 align="left">Highlight Projects</h1>
+<h1 align="left">📝 Highlight Projects</h1>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DariaaaP&repo=EnglishDictionaryApp&theme=midnight-purple)](https://github.com/DariaaaP/EnglishDictionaryApp) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DariaaaP&repo=MoodboardProject&theme=midnight-purple)](https://github.com/DariaaaP/MoodboardProject) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DariaaaP&repo=Website-of-architects&theme=midnight-purple)](https://github.com/DariaaaP/Website-of-architects) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DariaaaP&repo=superheroes_card&theme=midnight-purple)](https://github.com/DariaaaP/superheroes_card) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DariaaaP&repo=BadTrip&theme=midnight-purple)](https://github.com/DariaaaP/BadTrip)
