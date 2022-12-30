@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=1&pause=1&color=974CF4&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=55&lines=Daria+Petrenko" alt="Typing SVG" /></a></h1>
 
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=800&color=974CF4&center=true&vCenter=true&width=555&height=55&lines=HI!+My+name+is+Daria!;%26+A+junior+frontend+developer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;I%E2%80%99m+currently+learning+JavaScript+%26+React!;Welcome+to+my+profile!+%F0%9F%A4%8D+" alt="Typing SVG" /></a></div>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=800&color=974CF4&center=true&vCenter=true&width=555&height=55&lines=HI!+My+name+is+Daria!;%26+I'm+a+junior+frontend+developer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;I%E2%80%99m+currently+learning+JavaScript+%26+React!;Welcome+to+my+profile!+%F0%9F%A4%8D+" alt="Typing SVG" /></a></div>
 
 
 [![codewars](https://www.codewars.com/users/DariaaaP/badges/small)](https://www.codewars.com/users/DariaaaP) 
