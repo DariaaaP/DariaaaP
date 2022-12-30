@@ -9,7 +9,7 @@
 <h1 align="left">Contacts:</h1>
 
 <div><a href="https://t.me/PDariaaa"><img src="https://img.shields.io/badge/social-@PDariaaa-lightgrey?style=flat&logo=Telegram&logoColor=rgb(228, 77, 50)&labelColor=rgb(0, 0, 0)" height="21"/></a></div> 
-<div><a href="petrenko.dariaaa@gmail.com"><img src="https://img.shields.io/badge/social-GMail-lightgrey?style=flat&logo=GMail&logoColor=rgb(228, 77, 50)&labelColor=rgb(0, 0, 0)" height="21"/></a></div> 
+<div><a href="https://mail.google.com/petrenko.dariaaa@gmail.com"><img src="https://img.shields.io/badge/social-GMail-lightgrey?style=flat&logo=GMail&logoColor=rgb(228, 77, 50)&labelColor=rgb(0, 0, 0)" height="21"/></a></div> 
 
 
 
