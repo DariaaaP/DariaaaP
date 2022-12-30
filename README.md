@@ -7,7 +7,9 @@
 
 
 <h1 align="left">Contacts:</h1>
-· <a href="https://t.me/PDariaaa">Telegram</a>
+
+<div><a href="https://t.me/PDariaaa"><img src="https://img.shields.io/badge/OS-macOS-lightgrey?style=flat&logo=macOS&logoColor=rgb(241, 224, 90)&labelColor=rgb(0, 0, 0)" height="21"/> <img src="https://img.shields.io/badge/Editor-VS Code-lightgrey?style=flat&logo=Visual Studio Code&logoColor=rgb(241, 224, 90)&labelColor=rgb(0, 0, 0)" height="21"/></a></div> 
+
 
 
 <h1 align="left">🔧 Technologies & Tools</h1>
