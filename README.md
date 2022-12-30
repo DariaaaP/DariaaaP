@@ -4,7 +4,7 @@
 
 · 🌱 I’m currently learning JavaScript, React
 
-[![codewars](https://www.codewars.com/users/DariaaaP/badges/micro)](https://www.codewars.com/users/DariaaaP) 
+[![codewars](https://www.codewars.com/users/DariaaaP/badges/small)](https://www.codewars.com/users/DariaaaP) 
 
 
 <h1 align="center">🔧 Technologies & Tools</h1>
