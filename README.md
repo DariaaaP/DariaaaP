@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Daria
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Junior frontend developer 👩‍💻 </h3>
+<h3 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=974CF4&width=435&lines=Junior+frontend+developer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;from+Erevan%2C+Armenia)](https://git.io/typing-svg)</h3>
 
 · 🌱 I’m currently learning JavaScript, React
 
