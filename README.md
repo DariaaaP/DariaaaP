@@ -8,8 +8,8 @@
 
 <h1 align="left">Contacts:</h1>
 
-<div><a href="https://t.me/PDariaaa"><img src="https://img.shields.io/badge/Telegram-@PDariaaa-lightgrey?style=flat&logo=Telegram&logoColor=rgb(228, 77, 50)&labelColor=rgb(0, 0, 0)" height="21"/></a></div> 
-<div><img src="https://img.shields.io/badge/GMail-petrenko.dariaaa@gmail.com-lightgrey?style=flat&logo=GMail&logoColor=rgb(87, 61, 124)&labelColor=rgb(0, 0, 0)" height="21"/></a></div> 
+<div><a href="https://t.me/PDariaaa"><img src="https://img.shields.io/badge/Telegram-@PDariaaa-lightgrey?style=flat&logo=Telegram&logoColor=rgb(241, 224, 90)&labelColor=rgb(0, 0, 0)" height="21"/></a></div> 
+<div><img src="https://img.shields.io/badge/GMail-petrenko.dariaaa@gmail.com-lightgrey?style=flat&logo=GMail&logoColor=rgb(228, 77, 50)&labelColor=rgb(0, 0, 0)" height="21"/></a></div> 
 
 
 
