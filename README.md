@@ -2,6 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Junior frontend developer 👩‍💻 </h3>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DariaaaP)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--### Hi there 👋
 
 I'm Daria, junior frontend developer 👨‍💻
