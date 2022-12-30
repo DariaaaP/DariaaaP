@@ -5,6 +5,7 @@
 
 [![codewars](https://www.codewars.com/users/DariaaaP/badges/small)](https://www.codewars.com/users/DariaaaP) 
 
++ :herb: looking for a job/internship in IT
 
 <h1 align="left">📫 Contacts</h1>
 
