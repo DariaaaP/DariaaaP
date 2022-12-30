@@ -8,7 +8,7 @@
 
 
 <h1 align="left">🔧 Technologies & Tools</h1>
-<div><img src="https://img.shields.io/badge/Code-JavaScript-lightgrey?style=flat&logo=JavaScript?logoColor=white" height="21"/> <img src="https://img.shields.io/badge/Code-React-lightgrey?style=flat&logo=React" height="21"/> <img src="https://img.shields.io/badge/Code-Python-lightgrey?style=flat&logo=Python" height="21"/>
+<div><img src="https://img.shields.io/badge/Code-JavaScript-lightgrey?style=flat&logo=JavaScript&logoColor=white" height="21"/> <img src="https://img.shields.io/badge/Code-React-lightgrey?style=flat&logo=React" height="21"/> <img src="https://img.shields.io/badge/Code-Python-lightgrey?style=flat&logo=Python" height="21"/>
 <img src="https://img.shields.io/badge/Editor-VS Code-lightgrey?style=flat&logo=Visual Studio Code" height="21"/> <img src="https://img.shields.io/badge/Tools-PostgreSQL-lightgrey?style=flat&logo=PostgreSQL" height="21"/> <img src="https://img.shields.io/badge/Tools-Postman-lightgrey?style=flat&logo=Postman" height="21"/> <img src="https://img.shields.io/badge/Tools-Postman-lightgrey?style=flat&logo=Postman" height="21"/></div>
 
 
