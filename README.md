@@ -7,7 +7,7 @@
 
 
 <h1 align="left">Contacts:</h1>
-· <a>telegram</a>
+· <a href="https://t.me/PDariaaa">Telegram</a>
 
 
 <h1 align="left">🔧 Technologies & Tools</h1>
