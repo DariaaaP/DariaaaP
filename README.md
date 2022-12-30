@@ -23,4 +23,4 @@
 
 <h1 align="left">🗂️ Highlight Projects</h1>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DariaaaP&repo=EnglishDictionaryApp )](https://github.com/DariaaaP/EnglishDictionaryApp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DariaaaP&repo=EnglishDictionaryApp&theme=midnight-purple)](https://github.com/DariaaaP/EnglishDictionaryApp)
