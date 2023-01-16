@@ -26,10 +26,10 @@
 
 <h1 align="left">🌱 Github Stats and Activity</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DariaaaP&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DariaaaP&theme=midnight-purple&sideLabels=C6538D&currStreakLabel=C6538D&ring=E44D32&fire=F1E05A)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DariaaaP&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DariaaaP&theme=midnight-purple&sideLabels=C6538D&currStreakLabel=C6538D&ring=E44D32&fire=F1E05A)](https://git.io/streak-stats)
 
 
 
 
 <h1 align="left">📝 Highlight Projects</h1>
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DariaaaP&repo=EnglishDictionaryApp&theme=midnight-purple)]  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DariaaaP&repo=MoodboardProject&theme=midnight-purple)](https://github.com/DariaaaP/MoodboardProject) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DariaaaP&repo=superheroes_card&theme=midnight-purple)](https://github.com/DariaaaP/superheroes_card) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DariaaaP&repo=BadTrip&theme=midnight-purple)](https://github.com/DariaaaP/BadTrip)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=DariaaaP&repo=EnglishDictionaryApp&theme=midnight-purple)]  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DariaaaP&repo=MoodboardProject&theme=midnight-purple)](https://github.com/DariaaaP/MoodboardProject) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DariaaaP&repo=superheroes_card&theme=midnight-purple)](https://github.com/DariaaaP/superheroes_card) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DariaaaP&repo=BadTrip&theme=midnight-purple)](https://github.com/DariaaaP/BadTrip)
