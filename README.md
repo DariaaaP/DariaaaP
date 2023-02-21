@@ -30,6 +30,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DariaaaP&theme=midnight-purple&sideLabels=C6538D&currStreakLabel=C6538D&ring=E44D32&fire=F1E05A)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 
 
 
