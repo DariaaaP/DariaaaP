@@ -27,6 +27,7 @@
 <h1 align="left">🌱 Github Stats and Activity</h1>
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DariaaaP&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) 
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DariaaaP&theme=midnight-purple&sideLabels=C6538D&currStreakLabel=C6538D&ring=E44D32&fire=F1E05A)](https://git.io/streak-stats)
 
 
