@@ -38,5 +38,5 @@
 
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=DariaaaP&repo=EnglishDictionaryApp&theme=midnight-purple)](https://github.com/DariaaaP/EnglishDictionaryApp) 
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=DariaaaP&repo=MoodboardProject&theme=midnight-purple)](https://github.com/DariaaaP/MoodboardProject) 
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=DariaaaP&repo=superheroes_card&theme=midnight-purple)](https://github.com/DariaaaP/superheroes_card) 
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=DariaaaP&repo=HangmanGame&theme=midnight-purple)](https://github.com/DariaaaP/HangmanGame) 
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=DariaaaP&repo=BadTrip&theme=midnight-purple)](https://github.com/DariaaaP/BadTrip)
