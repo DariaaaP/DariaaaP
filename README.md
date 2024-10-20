@@ -9,8 +9,7 @@
 
 
 <h1 align="left">📫 Contacts</h1>
-
-<div><a href="https://t.me/PDariaaa"><img src="https://img.shields.io/badge/Telegram-@PDariaaa-grey?style=flat&logo=Telegram&logoColor=rgb(241, 224, 90)&labelColor=rgb(0, 0, 0)" height="21"/></a></div> 
+ 
 <div><img src="https://img.shields.io/badge/GMail-barinova.dariaaa@gmail.com-grey?style=flat&logo=GMail&logoColor=rgb(228, 77, 50)&labelColor=rgb(0, 0, 0)" height="21"/></div>
 <div><a href="https://www.linkedin.com/in/dariapetrenko/"><img src="https://img.shields.io/badge/LinkedIn-dariapetrenko-grey?style=flat&logo=LinkedIn&logoColor=rgb(241, 224, 90)&labelColor=rgb(0, 0, 0)" height="21"/></a></div>
 
