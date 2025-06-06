@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=1&pause=1&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=55&lines=%F0%9F%8C%BF+Daria+Petrenko" alt="Typing SVG" /></a></h1>
 
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=1&pause=1&color=F7F7F7&center=true&vCenter=true&repeat=false&width=555&height=55&lines=%F0%9F%8C%BF+RoR+Developer" alt="Typing SVG" /></a></div>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=1&pause=1&color=F7F7F7&center=true&vCenter=true&repeat=false&width=555&height=55&lines=RoR+Developer" alt="Typing SVG" /></a></div>
 
 [![codewars](https://www.codewars.com/users/DariaaaP/badges/small)](https://www.codewars.com/users/DariaaaP) 
 
