@@ -6,25 +6,6 @@
 
 [![codewars](https://www.codewars.com/users/DariaaaP/badges/small)](https://www.codewars.com/users/DariaaaP) 
 
-
-
-<h1 align="left">📫 Contacts</h1>
- 
-<div><img src="https://img.shields.io/badge/GMail-barinova.dariaaa@gmail.com-grey?style=flat&logo=GMail&logoColor=rgb(228, 77, 50)&labelColor=rgb(0, 0, 0)" height="21"/></div>
-<div><a href="https://www.linkedin.com/in/dariapetrenko/"><img src="https://img.shields.io/badge/LinkedIn-dariapetrenko-grey?style=flat&logo=LinkedIn&logoColor=rgb(241, 224, 90)&labelColor=rgb(0, 0, 0)" height="21"/></a></div>
-
-
-
-<h1 align="left">🔧 Technologies & Tools</h1>
-
-<div><img src="https://img.shields.io/badge/HTML5-grey?style=flat&logo=HTML5&logoColor=rgb(198, 83, 141)&labelColor=rgb(0, 0, 0)" height="21"/> <img src="https://img.shields.io/badge/CSS3-grey?style=flat&logo=CSS3&logoColor=rgb(198, 83, 141)&labelColor=rgb(0, 0, 0)" height="21"/> <img src="https://img.shields.io/badge/Sass-grey?style=flat&logo=Sass&logoColor=rgb(198, 83, 141)&labelColor=rgb(0, 0, 0)" height="21"/> <img src="https://img.shields.io/badge/TailwindCSS-grey?style=flat&logo=tailwindcss&logoColor=rgb(198, 83, 141)&labelColor=rgb(0, 0, 0)" height="21"/> <img src="https://img.shields.io/badge/JavaScript-grey?style=flat&logo=JavaScript&logoColor=rgb(198, 83, 141)&labelColor=rgb(0, 0, 0)" height="21"/> <img src="https://img.shields.io/badge/React-grey?style=flat&logo=React&logoColor=rgb(198, 83, 141)&labelColor=rgb(0, 0, 0)" height="21"/> <img src="https://img.shields.io/badge/ViteJS-grey?style=flat&logo=vite&logoColor=rgb(198, 83, 141)&labelColor=rgb(0, 0, 0)" height="21"/> <img src="https://img.shields.io/badge/Python-grey?style=flat&logo=Python&logoColor=rgb(198, 83, 141)&labelColor=rgb(0, 0, 0)" height="21"/></div>
-<div><img src="https://img.shields.io/badge/Tools-PostgreSQL-grey?style=flat&logo=PostgreSQL&logoColor=rgb(87, 61, 124)&labelColor=rgb(0, 0, 0)" height="21"/> <img src="https://img.shields.io/badge/Tools-Postman-grey?style=flat&logo=Postman&logoColor=rgb(87, 61, 124)&labelColor=rgb(0, 0, 0)" height="21"/> <img src="https://img.shields.io/badge/Tools-Power BI-grey?style=flat&logo=Power BI&logoColor=rgb(87, 61, 124)&labelColor=rgb(0, 0, 0)" height="21"/></div>
-<div><img src="https://img.shields.io/badge/OS-macOS-grey?style=flat&logo=macOS&logoColor=rgb(241, 224, 90)&labelColor=rgb(0, 0, 0)" height="21"/> <img src="https://img.shields.io/badge/Editor-VS Code-grey?style=flat&logo=Visual Studio Code&logoColor=rgb(241, 224, 90)&labelColor=rgb(0, 0, 0)" height="21"/></div> 
-<div><img src="https://img.shields.io/badge/Design-Figma-grey?style=flat&logo=Figma&logoColor=rgb(228, 77, 50)&labelColor=rgb(0, 0, 0)" height="21"/></div>
-
-
-
-
 <h1 align="left">🌱 Github Stats and Activity</h1>
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DariaaaP&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) 
